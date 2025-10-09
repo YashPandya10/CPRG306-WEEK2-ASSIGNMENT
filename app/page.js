@@ -13,8 +13,7 @@ export default function HomePage()
         </li>
         <li>
           <Link
-            href="https://cprg-306-assignments-ljw43q2g6-yashpandya10s-projects.vercel.app"
-            className="text-blue-500 hover:underline"
+            href="/week-2" className="text-blue-500 hover:underline"
           >
             Week 2
           </Link>
